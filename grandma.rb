@@ -1,9 +1,12 @@
 # Write a speak_to_grandma method.
-if "I LOVE YOU TOO PUMPKIN"
-  "I LOVE YOU GRANDMA"
-else
-  "HUH?! SPEAK UP, SONNY!"
+def speak_to_grandma
+  if "I LOVE YOU TOO PUMPKIN"
+    "I LOVE YOU GRANDMA"
+  else
+    "HUH?! SPEAK UP, SONNY!"
+  end
 end
+
 
 
 
