@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
-if "I LOVE YOU GRANDMA"
-  "I LOVE YOU TOO PUMPKIN"
+if "I LOVE YOU TOO PUMPKIN"
+  "I LOVE YOU GRANDMA"
 else
   "HUH?! SPEAK UP, SONNY!"
 end
